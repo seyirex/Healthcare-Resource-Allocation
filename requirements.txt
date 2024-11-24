@@ -1,5 +1,6 @@
 streamlit==1.40.1
 ortools==9.11.4210
 streamlit_authenticator==0.4.1
+catboost==1.2.7
 pycaret==3.3.2 
 
