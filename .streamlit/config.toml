@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2e7d32" # Green
+backgroundColor = "#f8f9f4" # Off-white
+secondaryBackgroundColor = "#e8f5e9" # Light green
+textColor = "#2e7d32" # Green
+font = "sans serif"
