@@ -141,3 +141,8 @@ __pycache__
 merged_data.csv
 Patient_Demo.csv
 Patient_Hospital_Visit.csv
+
+# Ignore specific CSV files in the dataset folder
+dataset/Patient_Demo.csv
+dataset/Patient_Hospital_Visit.csv
+dataset/merged_data.csv
