@@ -1,4 +1,5 @@
 streamlit==1.40.1
 ortools==9.11.4210
+streamlit_authenticator==0.4.1
 pycaret==3.3.2 
 
