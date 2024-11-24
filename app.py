@@ -9,7 +9,7 @@ import yaml
 from yaml.loader import SafeLoader
 
 
-st.set_page_config(page_title="Sales Dashboard", page_icon="🧑‍⚕️")
+st.set_page_config(page_title="Healthcare Resource Allocation Tool", page_icon="🧑‍⚕️")
 
 # Load the configuration file
 with open('config.yaml') as file:
