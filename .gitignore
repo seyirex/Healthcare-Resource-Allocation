@@ -132,6 +132,7 @@ dmypy.json
 #custom
 _Case_Study_-_Data_scientist__2024.pdf
 logs.log
+dataset
 mlruns/
 .databrickscfg
 archive
