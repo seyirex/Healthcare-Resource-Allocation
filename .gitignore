@@ -132,10 +132,12 @@ dmypy.json
 #custom
 _Case_Study_-_Data_scientist__2024.pdf
 logs.log
-dataset
 mlruns/
 .databrickscfg
 archive
 .vscode
 __features
 __pycache__
+merged_data.csv
+Patient_Demo.csv
+Patient_Hospital_Visit.csv
